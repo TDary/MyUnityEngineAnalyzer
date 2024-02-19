@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Linty.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "H:\\Projects\\Main\\Assembly-CSharp.csproj"
+    }
+  }
+}
